@@ -38,7 +38,7 @@ Install libs:
 pip install BeautifulSoup4
 pip install urllib3
 
-Usar versao 3.11.4 python
+Eu utilizei o kernel 3.11.4 python
 
 ---*---*----*-----*----*
 
